@@ -126,3 +126,27 @@ So sánh giữa /M và Timestamp RFC 3161:
  8. (LTV) Cập nhật DSS với Certs, OCSPs, CRLs, VRI.- Phải nêu rõ: hash alg, RSA padding, key size, vị trí lưu trong PKCS#7.- Đầu ra: mã nguồn, file PDF gốc, file PDF đã ký
 
 
+
+
+<img width="1108" height="912" alt="image" src="https://github.com/user-attachments/assets/bae64ca1-fc22-4c9c-852c-c2ae63634bf1" />
+
+
+
+
+
+
+<img width="1354" height="915" alt="image" src="https://github.com/user-attachments/assets/aeb2319a-1a13-43aa-8da4-f36b8c7a9313" />
+
+
+
+
+
+
+
+<img width="1065" height="895" alt="image" src="https://github.com/user-attachments/assets/ff2b120d-1a6b-49af-a500-e3e7e4b34d3c" />
+
+
+
+
+
+
